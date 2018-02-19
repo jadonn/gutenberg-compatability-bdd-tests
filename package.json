@@ -1,5 +1,5 @@
 {
-  "name": "gutenberg-compat-driver",
+  "name": "gutenberg-compatability-bdd-tests",
   "version": "0.1.0",
   "description": "Basic Webdriver.io/Mocha test suite for testing the WordPress Gutenberg Editor with other WordPress plugins.",
   "scripts": {
