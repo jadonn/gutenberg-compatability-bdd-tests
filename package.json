@@ -1,0 +1,17 @@
+{
+  "name": "gutenberg-compat-driver",
+  "version": "0.1.0",
+  "description": "Basic Webdriver.io/Mocha test suite for testing the WordPress Gutenberg Editor with other WordPress plugins.",
+  "scripts": {
+    "test": "./node_modules/webdriverio/bin/wdio"
+  },
+  "author": "Jadon Naas",
+  "license": "MIT",
+  "devDependencies": {
+    "wdio-json-reporter": "^0.3.1",
+    "wdio-mocha-framework": "^0.5.12",
+    "wdio-phantomjs-service": "^0.2.2",
+    "webdriverio": "^4.10.2"
+  },
+  "dependencies": {}
+}

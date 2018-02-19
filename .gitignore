@@ -1,0 +1,5 @@
+errorShots/
+outputDir/
+node_modules/
+
+local.conf.js
